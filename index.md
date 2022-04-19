@@ -7,6 +7,6 @@
 
 # 前言
 
-房价预测：<pred_house_price.html>
+房价预测：<https://github.com/ahaqu01/ahaqu01.github.io/blob/d7308326dbcbe9acc0c7d9c54ee15dd5fc0d2926/pred_house_price.html>
 
                                                  热爱技术，终生学习。
