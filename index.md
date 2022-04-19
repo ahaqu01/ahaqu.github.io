@@ -7,8 +7,7 @@
 
 # 前言
 
--房价预测：<http://htmlpreview.github.io/?https://github.com/ahaqu01/ahaqu01.github.io/blob/d7308326dbcbe9acc0c7d9c54ee15dd5fc0d2926/pred_house_price.html>
--[房价预测](http://htmlpreview.github.io/?https://github.com/ahaqu01/ahaqu01.github.io/blob/d7308326dbcbe9acc0c7d9c54ee15dd5fc0d2926/pred_house_price.html)
+[房价预测](http://htmlpreview.github.io/?https://github.com/ahaqu01/ahaqu01.github.io/blob/d7308326dbcbe9acc0c7d9c54ee15dd5fc0d2926/pred_house_price.html)
 
--![img](https://cdn.nlark.com/yuque/0/2020/png/205737/1589021611391-b6904e2b-0b01-4600-9e5d-09e2b188f116.png)
+
                                                  热爱技术，终生学习。
