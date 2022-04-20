@@ -15,5 +15,7 @@
 
 [自动化AI平台](https://ahaqu01.github.io/auto_ai_platform/)
 
+[动手学深度学习](https://ahaqu01.github.io/d2l-zh/)
+
 
                                                  热爱技术，终生学习。
