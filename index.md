@@ -13,5 +13,7 @@
 
 [房价预测](http://htmlpreview.github.io/?https://github.com/ahaqu01/ahaqu01.github.io/blob/d7308326dbcbe9acc0c7d9c54ee15dd5fc0d2926/pred_house_price.html)
 
+[自动化AI平台](https://ahaqu01.github.io/auto_ai_platform/)
+
 
                                                  热爱技术，终生学习。
