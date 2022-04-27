@@ -15,6 +15,8 @@
 
 [自动化AI平台](https://ahaqu01.github.io/auto_ai_platform/)
 
+[flask人工智能平台](https://ahaqu01.github.io/flask_ai_platform/)
+
 [动手学深度学习](https://ahaqu01.github.io/d2l-zh/)
 
 
